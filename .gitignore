@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# App data (your personal expenses/habits live here)
+data/*.db
+data/*.db-journal
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/

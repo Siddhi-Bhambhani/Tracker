@@ -3,9 +3,6 @@
 A personal finance + habit-building dashboard built with **Streamlit**.
 Log what you spend, tick off daily habits, and see trends at a glance.
 
-> Originally a Flask app — rebuilt in Streamlit with a layered structure
-> (database → services → UI), tests, and charts.
-
 ## Features
 
 | Page | What it does |

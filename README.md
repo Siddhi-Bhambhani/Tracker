@@ -94,10 +94,6 @@ TRACKER_CURRENCY='$' streamlit run app.py
 $env:TRACKER_CURRENCY='$'; streamlit run app.py
 ```
 
-## Migrating data from the Flask version
-
-The schema is unchanged. Copy your old `tracker.db` to `data/tracker.db` and you're done.
-
 ## Running tests
 
 ```bash
